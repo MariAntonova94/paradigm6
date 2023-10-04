@@ -1,6 +1,4 @@
 from typing import List
-
-
 def binary_search(arr: List[int], number: int) -> int:
     """
     Реализует бинарный поиск элемента в целочисленном массиве.
